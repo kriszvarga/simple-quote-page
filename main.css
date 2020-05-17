@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+}
+body { 
+  height: 100vh;
+  background: url("assets/freedom.jpg") no-repeat center center;
+  background-size: cover;
+  width: 100%;
+  line-height: 1.7;
+}
+.wrapper {
+  margin: 0 auto;
+  width: 85%;
+  text-align: center;
+  padding-top: 5rem;
+  color: #406b4c;
+}
+.text {
+  font-family: "Julius Sans One", sans-serif;
+  font-size: 2.5rem;
+  padding-bottom: 2rem;
+}
+.writer {
+  font-family: "nunito", sans-serif;
+  font-style: italic;
+  font-size: 1.3rem;
+}
